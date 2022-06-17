@@ -54,21 +54,10 @@ technical skills in  web development,Java Software Development and Database Mana
 |-|-|-|
 |[![Mrinal's github stats](https://github-readme-stats.vercel.app/api?username=Mrinal540&show_icons=true&theme=dark&hide_title=true)](https://github.com/Mrinal540)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal540&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/Mrinal540)|![Mrinal Anand](https://github-readme-streak-stats.herokuapp.com/?user=Mrinal540&theme=dark)
 <hr>
-<!--temp-->
-## 📈 My GitHub Stats
 
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Mrinal540&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=iUttamRao&theme=gruvbox&hide_border=true" />
-</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mrinal540&langs_count=10&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="iUttamRao" height="192px"/>
-  <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
   
- <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Mrinal540"><img alt="Mrinal540's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iUttamRao&custom_title=Uttam%20Rao's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+ 
 <!-- START NEW SECTION -->
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
