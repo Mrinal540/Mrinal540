@@ -13,8 +13,8 @@ technical skills in  web development,Java Software Development and Database Mana
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me</h3>
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-anand-402241124) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmrinal@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrinal.anand.739)
-<p align="left"> <a href="https://twitter.com/mrinalanand_21" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalanand_21?logo=twitter&style=for-the-badge" alt="mrinalanand_21" /></a> </p>
 <a href="https://instagram.com/mr.anand21" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<p align="left"> <a href="https://twitter.com/mrinalanand_21" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalanand_21?logo=twitter&style=for-the-badge" alt="mrinalanand_21" /></a> </p>
 
 <hr>
  
