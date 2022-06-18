@@ -14,6 +14,8 @@ technical skills in  web development,Java Software Development and Database Mana
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-anand-402241124) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anmrinal@gmail.com) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrinal.anand.739)
 <a href="https://instagram.com/mr.anand21" target="_blank"><img height="28" src = "https://img.shields.io/badge/-Instagram-e95950?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/#8647)
+
 <p align="left"> <a href="https://twitter.com/mrinalanand_21" target="blank"><img src="https://img.shields.io/twitter/follow/mrinalanand_21?logo=twitter&style=for-the-badge" alt="mrinalanand_21" /></a> </p>
 
 <hr>
