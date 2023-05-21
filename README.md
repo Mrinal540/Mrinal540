@@ -79,7 +79,7 @@ technical skills in  web development,Java Software Development and Database Mana
  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
  
-<details><summary align="center"> </samp></summary><p align ="centre"> Refresh page to load New joke</p></details>
+<details><summary align="center"> </samp></summary><p align ="centre"> Refresh to load New joke</p></details>
 <br>
   </p>
 
