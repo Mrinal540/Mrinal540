@@ -1,58 +1,63 @@
-# Hi 👋, I'm Mrinal Anand
+<h1 align="center">Hi 👋, I'm Mrinal Anand</h1>
+<h3 align="center">✨ Full Stack Developer | Problem Solver ✨</h3>
 
-### 🚀 Software Engineer | Full Stack Developer
-
-💡 Passionate about building scalable web applications and contributing to impactful open-source projects.
-
----
-
-## 🌱 About Me
-
-* 👯 Looking to collaborate on **Open Source Projects**
-* 💬 Interested in **Backend Systems, APIs, and Scalable Architectures**
-* 📫 Reach me at: **[anmrinal@gmail.com](mailto:anmrinal@gmail.com)**
-* 🌐 Portfolio: https://mrinal540.github.io/Port-folio/
-* 📄 Resume: https://drive.google.com/file/d/1TWYTJIrVrSv_M1e3QbmwjF9RQiWj5a8c/view
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://github.com/Mrinal540"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
-<a href="https://linkedin.com/in/mrinalaanand"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="https://instagram.com/mrinal.anand_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-<a href="https://leetcode.com/Mrinal540"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
+<p align="center">
+  Building scalable systems • Exploring open source • Crafting clean UI
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Languages
-
-C • Java • TypeScript
-
-### 🌐 Frontend
-
-Angular • HTML • CSS • Sass • Bootstrap
-
-### ⚙️ Backend & APIs
-
-Spring Boot • GraphQL
-
-### 🗄️ Databases
-
-MongoDB • MySQL • MS SQL Server
-
-### 🔧 Tools & DevOps
-
-Git • Linux • Nginx • Postman • RabbitMQ
+* 🚀 Passionate about **Full Stack Development**
+* 🤝 Open to collaborating on **Open Source Projects**
+* 📫 Reach me at: **[anmrinal@gmail.com](mailto:anmrinal@gmail.com)**
+* 🌐 [Portfolio](https://mrinal540.github.io/Port-folio/)
+* 📄 [Resume](https://drive.google.com/file/d/1TWYTJIrVrSv_M1e3QbmwjF9RQiWj5a8c/view)
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Connect
 
-I enjoy solving problems on LeetCode and turning ideas into real-world applications 🚀
+<p align="center">
+  <a href="https://github.com/Mrinal540">GitHub</a> •
+  <a href="https://linkedin.com/in/mrinalaanand">LinkedIn</a> •
+  <a href="https://instagram.com/mrinal.anand_">Instagram</a> •
+  <a href="https://leetcode.com/Mrinal540">LeetCode</a>
+</p>
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=angular,ts,js,html,css,sass,bootstrap" />
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,graphql" />
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,linux,nginx" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,postman,rabbitmq" />
+
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mrinal540&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mrinal540&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⚡ Philosophy
+
+<p align="center">
+  <i>"Code. Learn. Build. Repeat."</i>
+</p>
 
 ---
