@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Mrinal Anand<br>Full Stack Developer | Problem Solver ✨<br>Building scalable systems • Exploring open source • Crafting clean UI<br><br>I design and build scalable backend systems, APIs, and performant web applications.<br><br>
+Hi 👋, I'm Mrinal Anand<br>Full Stack Developer | Problem Solver ✨<br>Building scalable systems • Exploring open source • Crafting clean UI<br>I design and build scalable backend systems, APIs, and performant web applications.<br><br>
 
 
 ## 🌐 Socials:
