@@ -1,23 +1,67 @@
 # Hi 👋, I'm Mrinal Anand
 
-### Software Engineer
+### 🚀 Software Engineer | Full Stack Developer
 
-- 👯 I'm looking to collaborate on **open source projects.**
+💡 Passionate about building scalable web applications and contributing to impactful open-source projects.
 
-- 📫 How to reach me **anmrinal@gmail.com**
+---
 
-- 👨‍💻 All of my projects are available at **[https://mrinal540.github.io/Port-folio/](https://mrinal540.github.io/Port-folio/)**
+## 🌱 About Me
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1TWYTJIrVrSv_M1e3QbmwjF9RQiWj5a8c/view](https://drive.google.com/file/d/1TWYTJIrVrSv_M1e3QbmwjF9RQiWj5a8c/view)**
+* 👯 Looking to collaborate on **Open Source Projects**
+* 💬 Interested in **Backend Systems, APIs, and Scalable Architectures**
+* 📫 Reach me at: **[anmrinal@gmail.com](mailto:anmrinal@gmail.com)**
+* 🌐 Portfolio: https://mrinal540.github.io/Port-folio/
+* 📄 Resume: https://drive.google.com/file/d/1TWYTJIrVrSv_M1e3QbmwjF9RQiWj5a8c/view
 
-<h3 align="left">Connect with me:</h3>
+---
+
+## 🤝 Connect With Me
+
 <p align="left">
-<a href="https://github.com/Mrinal540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Mrinal540" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mrinalaanand/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mrinalaanand/" height="30" width="40" /></a>
-<a href="https://instagram.com/mrinal.anand_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrinal.anand_" height="30" width="40" /></a>
-<a href="https://leetcode.com/Mrinal540" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Mrinal540" height="30" width="40" /></a>
+<a href="https://github.com/Mrinal540"><img src="https://skillicons.dev/icons?i=github" height="40"/></a>
+<a href="https://linkedin.com/in/mrinalaanand"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="https://instagram.com/mrinal.anand_"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
+<a href="https://leetcode.com/Mrinal540"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/graphql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=graphql" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rabbitMQ" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rabbitmq" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+---
 
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+C • Java • TypeScript
+
+### 🌐 Frontend
+
+Angular • HTML • CSS • Sass • Bootstrap
+
+### ⚙️ Backend & APIs
+
+Spring Boot • GraphQL
+
+### 🗄️ Databases
+
+MongoDB • MySQL • MS SQL Server
+
+### 🔧 Tools & DevOps
+
+Git • Linux • Nginx • Postman • RabbitMQ
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mrinal540&show_icons=true&theme=radical" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal540&layout=compact&theme=radical" alt="langs" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving problems on LeetCode and turning ideas into real-world applications 🚀
+
+---
