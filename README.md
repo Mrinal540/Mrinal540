@@ -51,15 +51,6 @@ Git • Linux • Nginx • Postman • RabbitMQ
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mrinal540&show_icons=true&theme=radical" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrinal540&layout=compact&theme=radical" alt="langs" />
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 I enjoy solving problems on LeetCode and turning ideas into real-world applications 🚀
